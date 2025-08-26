@@ -18,7 +18,7 @@
 - **Models Published:**  
   _(If any models are developed and published, add Hugging Face links here.)_
 - **Datasets Used:**
-  - [SST-2 (Stanford Sentiment Treebank v2)](https://huggingface.co/datasets/glue/viewer/sst2) &mdash; Used for sentiment classification and fine-tuning experiments. Licensed for research use via Hugging
+  - [SST-2 (Stanford Sentiment Treebank v2)](https://huggingface.co/datasets/glue/viewer/sst2) &mdash; Used for sentiment classification and fine-tuning experiments. Licensed for research use via Hugging face
 - **Datasets Published:**  
   _(List and link any datasets created and published for this project.)_
 
