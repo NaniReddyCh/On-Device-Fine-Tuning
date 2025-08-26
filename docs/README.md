@@ -1,6 +1,6 @@
-# PRGE Fine-Tuning: Research-Focused Technical Documentation
+# Technical Documentation
 
-This repository presents a research-driven implementation and fine-tuning workflow for the PRGE (Parallelized Randomized Gradient Estimation) model, specifically designed for advanced relation extraction tasks.  
+This repository presents a research-driven implementation and fine-tuning workflow for the PRGE (Parallelized Randomized Gradient Estimation) model, specifically designed for advanced relation extraction tasks.
 
 Significant effort has been invested to ensure that the methodology, code, and documentation meet research standards, enabling reproducibility and rigorous experimentation for academic and applied research.
 
